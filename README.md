@@ -9,7 +9,7 @@ Hi I'm Aadhithya aka Derpitron! I study electronics and computer engineering.
 ## In the past, I've had the following interests
 - Computer fonts (my favorites are Grotesk and Garamond style)
 - Conlanging and Worldbuilding
-- Etymology and the study of evolution of human language/cultures
+- Etymology and the love of evolution of human language/cultures
 - EDM/Drum and bass music production
 
 ## Right now, I'm working on:
