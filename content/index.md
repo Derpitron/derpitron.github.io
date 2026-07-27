@@ -1,6 +1,8 @@
 # 5 Rupee Coin
 I'm Derpitron and this is my personal website. I will host public content on many of my interests and thoughts here.
 
+Calligraphy: [[calligraphy]]
+
 Code Hosting: https://codeberg.org/derpitron
 Email: derpitron1[at]proton[dot]me
 Matrix: derpitron@matrix.org
