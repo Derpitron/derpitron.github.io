@@ -1,4 +1,3 @@
-# Calligraphy
 I love broad-edge calligraphy. I own a Pilot Parallel and fill it with schoolkid Pilot V5/V7 ink. I use my spare record notebooks for paper. Doing this has bled into my normal handwriting,
 giving me an ornamental style.
 
