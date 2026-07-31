@@ -80,19 +80,35 @@ An analysis of Technological Protection Measures (DRM) in software products and 
 ## [[WIP] Derp's Sense of Speed Camera for BeamNG.Drive](https://codeberg.org/derpitron/BeamNG-Speed-Camera/src/branch/hawaii)
 A physics-based third-person custom camera effects mod for the BeamNG.Drive vehicle physics game. Utilises vehicle driving dynamics values from the game's physics engine to convey a violent sense of speed and momentum to the player's camera, visually inspired by arcade racing games. I created a method-chaining based API for expressing 3D vector and quaternion transformations in a legible format in code, implemented a small shim integration in the game engine to tap out physics values for processing, and a small visualisation/debug library for aiding me in effects construction.
 **Technologies:** Lua, BeamNG.Drive, Signal Processing, Vehicle Dynamics, Visual Effects programming, API Design, 3D Vector and Quaternion Algebra, Game Feel
+**Preview:**
+Before:
+![](https://www.youtube.com/watch?v=ktM3qMj4JmY)
 
+
+After:
+![](https://www.youtube.com/watch?v=qRc3TTb5zes)
 ## [[WIP] Homelab](https://codeberg.org/derpitron/tutu-nixos)
-NixOS configuration for my home server. Auto-configured with Secure Boot, Immutability, User/file ACLs, secrets management, encrypted ZFS/BTRFS disk pool configurations, and SFTP fileserver. Integrated closely with my Home Networking setup.
-**Technologies:** Linux System Administration, NixOS, SystemD, Devops, Basic system security auditing, Service and User management, Bash, Git
+NixOS configuration for my home server. Auto-configured with Secure Boot, Immutability, User/file ACLs, secrets management, encrypted ZFS/BTRFS disk pool configurations, and SFTP fileserver. Provides multiple users for my family. Integrated closely with my Home Networking setup.
+
+**Technologies:** Linux System Administration, NixOS, SystemD, Alpine Linux, Devops, Basic system security auditing, Service and User management, Bash, Git
 
 ## [WIP] Home Networking
 I manage my home network with my router running OpenWRT, and have dumped the firmware of my ISP-provided ONT. I manage software security, firewall rules, network uptime, and Ethernet cabling for my house. I keep up to date with various router/embedded device modification techniques for Indian ISPs across broadband consumer forums. Integrated closely with my Homelab.
+
 **Technologies:** Busybox, Embedded Linux, nftables Firewall, Embedded Device Analysis, Firmware Analysis, IPv4/IPv6 networking, DNS, Basic PPPoE usage skill
 
 ## [Discord OTP Forcer](https://codeberg.org/Discord-OTP-Forcer/Discord-OTP-Forcer)
 A user-friendly program to help people attempt to recover their [Discord](https://discord.com) accounts, if they lost their TOTP authenticator keys. Written in strongly typed Python, using Selenium web driver (Chromium), and web scraping techniques. I read IETF RFC 6238 in an unsuccesful attempt to find vulnerabilities in the TOTP standard which I could use. I implemented configurable program timing to keep the program within respectful service limits, multiple configuration options for diverse user situations requested over the years, and implemented automatic error detection and recovery for a user-friendly experience.  Over time, users have reported success in account recovery with this program, or have turned into contributors/maintainers to the program, building a sort of community.
+
 **Technologies:** Typed Python, Pyrefly, Selenium, Web Scraping, YAML, Discord API
 
 ## [ICSE Tamil Translations](https://icse-tamil-translations.github.io)
 Built a website with my school classmates to translate ICSE's 9th and 10th standard Tamil language syllabus texts into English, for easy study and reference. Continues to recieve traffic through the years.
+
 **Technologies:** Github Pages, Github Actions, Jekyll Static Site Generator, HTML, CSS, Google Analytics
+
+# Other Skills
+C, Rust, Java, basic web dev, basic C++, PC Building/Hardware maintenance, Android rooting, MySQL, Windows Desktop power usage, Docker, Media file management,
+
+# Interests
+Common Lisp, Functional Programming, Type Systems, 3D Geometry, Robot/Vehicle telemetry, Vehicle cosmetics/facelift design, Self-hosted software and community self-sufficiency, General purpose computing freedom
