@@ -9,7 +9,7 @@ Email: aadhithyanm[at]protonmail[dot]com
 # Education
 ## B.Tech in Electronics and Computer Engineering
 at *Vellore Institute of Technology, Chennai*, ongoing (2024-2028)
-Current CGPA: 7.07
+Current CGPA: 7.61
 ## 12th Standard  
 *BVM Global Perungudi*, 2024  
 Board Exam Marks: 90%
