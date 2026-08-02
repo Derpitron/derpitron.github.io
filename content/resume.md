@@ -49,7 +49,7 @@ Board Exam Marks: 88.2%
 ## Mafkin Robotics
 ### Software and ROS Engineer
 *May-December, 2025*
-I worked with fellow interns to create, develop, and test a semi-autonomous differential drive robot prototype for 3d mapping, integrating sensor fusion across odometers, IMU sensors, and a Zed Stereo Camera, using industry-standard ROS 2 technologies such as `rviz2` and `ORB-Slam`. I created a unified control and analysis plane using `tmux`.
+I worked with fellow interns to create, develop, and test a semi-autonomous differential drive robot prototype for 3d mapping, integrating sensor fusion across odometers, IMU sensors, and a Stereo Camera, using industry-standard ROS 2 technologies such as `rviz2` and `ORB-Slam`. I created a unified control and analysis plane using `tmux`.
 
 I have experience doing thorough audits across our robot's codebase, gaining a deep understanding of the system, and using that knowledge to refactor for correctness, terse code, and maintainability. This involved an intimate sense of "code smell" and code organisation, as well as documenting and formalising our commands using Makefiles. Further details are under NDA.
 
@@ -61,10 +61,6 @@ ROS 2 "Humble", Python 3, Arduino IDE/CLI, Ubuntu Linux 22.04, `udev` for USB, I
 Nvidia Jetson Orin Nano, Raspberry Pi 4b, Arduino, ESP32
 ##### Networking
 Ethernet
-##### Sensors
-Optical Rotary Encoder,  Inertial Measurement Unit, Zed Stereo Camera, Time of flight Camera
-##### Actuators
-Heavy-duty Motor Driver
 #### Skills
 - Designing and integrating software across Python, Arduino, Linux OS, and local network as part of a unified robot operation system.
 - Profiling and optimising sensor data and video feed transmission network usage for real-time latency
