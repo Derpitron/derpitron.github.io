@@ -89,7 +89,7 @@ NixOS configuration for my home server. Auto-configured with Secure Boot, Immuta
 **Technologies:** Linux System Administration, NixOS, SystemD, Alpine Linux, Devops, Basic system security auditing, Service and User management, Bash, Git
 
 ## [WIP] Home Networking
-I manage my home network with my router running OpenWRT, and have dumped the firmware of my ISP-provided ONT. I manage software security, firewall rules, network uptime, and Ethernet cabling for my house. I keep up to date with various router/embedded device modification techniques for Indian ISPs across broadband consumer forums. Integrated closely with my Homelab.
+I manage my home network with my router running OpenWRT, and have dumped the firmware of my ISP-provided ONT. I manage software security, firewall rules, network uptime, and Ethernet cabling for my house. I keep up to date with various router/embedded device modification techniques for Indian ISPs across [broadband consumer forums](https://broadband.forum). Integrated closely with my Homelab.
 
 **Technologies:** Busybox, Embedded Linux, nftables Firewall, Embedded Device Analysis, Firmware Analysis, IPv4/IPv6 networking, DNS, Basic PPPoE usage skill
 
