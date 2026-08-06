@@ -1,3 +1,7 @@
+*(This post is in reference to the Indian Copyright Act, 2012, and the problem of TPMs/EULA based restrictions on users' software freedoms. This is an isolated fragment and doesn't
+constitute the bulk of my thoughts on the matter. It is also only conjecture, not legal advice. By "EULA", I mean the shrinkwrap contract users typically agree to that block
+them from exercising any of the 4 freedoms of software)*
+
 Tekla Corporation vs Survo Ghosh[1]'s opinion seems to unambigously state EULAs can't restrict Sec.52 rights, and further implies TPMs aren't allowed to restrict them either. Reading Tekla Para 17, I understand reverse engineering/interoperability EULA restrictions are illegal, and anticonsumer/anticompetitive TPMs are very legally suspect?
 
 Para 17 of Tekla:
